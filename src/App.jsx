@@ -1,4 +1,4 @@
 
 export function App(){
-    return <h1>Hello Gabriel Barretos</h1>
+    throw new Error("eita geovana");
 }
