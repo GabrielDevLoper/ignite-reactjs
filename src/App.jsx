@@ -1,4 +1,5 @@
-
+import "./styles/global.css";
 export function App(){
-    throw new Error("eita geovana");
+    
+    return <h1>Hello Gabriel Barreto</h1>
 }
